@@ -166,5 +166,5 @@
   <project path="vendor/google" name="oxygen-rom-gb/android_vendor_google" remote="github" />
   <project path="vendor/htc" name="oxygen-rom-gb/android_vendor_htc" remote="github" />
   <project path="vendor/samsung" name="oxygen-rom-gb/android_vendor_samsung" remote="github" />
-  <project path="vendor/lge" name="TheMuppets/proprietary_vendor_lge" remote="github" />
+  <project path="vendor/lge" name="Oxygen-For-P350/proprietary_vendor_lge" remote="github" />
 </manifest>
