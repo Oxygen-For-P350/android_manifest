@@ -15,6 +15,7 @@
   <project path="development" name="platform/development" />
   <project path="device/common" name="device/common" />
   <project path="device/sample" name="device/sample" />
+  <project path="device/lge/p350" name="Oxygen-For-P350/oxygen_device_lge_p350" revision="ics" remote="github" />
   <project path="external/android-mock" name="platform/external/android-mock" />
   <project path="external/antlr" name="platform/external/antlr" />
   <project path="external/apache-harmony" name="platform/external/apache-harmony" />
