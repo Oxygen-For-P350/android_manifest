@@ -126,11 +126,7 @@
   <project path="external/valgrind" name="platform/external/valgrind" />
   <project path="external/webkit" name="popdog123/android_external_webkit" remote="github" revision="ics" />
   <project path="external/webp" name="platform/external/webp" />
-  <project path="external/webrtc" name="CyanogenMod/android_external_webrtc" remote="github" revision="ics-release" />
-  <project path="external/wpa_supplicant" name="platform/external/wpa_supplicant" />
-  <project path="external/wpa_supplicant_6" name="CyanogenMod/android_external_wpa_supplicant_6" remote="github" revision="ics" />
-  <project path="external/wpa_supplicant_8" name="platform/external/wpa_supplicant_8" />
-  <project path="external/xmlwriter" name="platform/external/xmlwriter" />
+  <project path="external/webrtc" name="popdog123/android_external_webrtc" remote="github" revision="ics" />
   <project path="external/zlib" name="CyanogenMod/android_external_zlib" remote="github" revision="ics" />
   <project path="frameworks/compile/libbcc" name="CyanogenMod/android_frameworks_compile_libbcc" remote="github" revision="ics" />
   <project path="frameworks/compile/linkloader" name="platform/frameworks/compile/linkloader" />
@@ -199,14 +195,14 @@
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
   <project path="bionic" name="CyanogenMod/android_bionic" revision="ics" remote="github" />
-  <project path="external/skia" name="CyanogenMod/android_external_skia" revision="ics" remote="github" />
+  <project path="external/skia" name="CyanogenMod/android_external_skia" revision="jellybean" remote="github" />
   <project path="frameworks/base" name="popdog123/android_frameworks_base" revision="ics" remote="github" />
   <project path="frameworks/compile/slang" name="oxygen-rom-ics/android_frameworks_compile_slang" revision="ics" remote="github" />
   <project path="hardware/libhardware" name="CyanogenMod/android_hardware_libhardware" revision="ics" remote="github" />
   <project path="packages/apps/Browser" name="oxygen-rom-ics/android_packages_apps_browser" revision="ics" remote="github" />
   <project path="packages/apps/Bluetooth" name="oxygen-rom-ics/android_packages_apps_bluetooth" revision="ics" remote="github" />
   <project path="packages/apps/Camera" name="CyanogenMod/android_packages_apps_camera" revision="ics" remote="github" />
-  <project path="packages/apps/Contacts" name="oxygen-rom-ics/android_packages_apps_contacts" revision="ics" remote="github" />
+  <project path="packages/apps/Contacts" name="popdog123/android_packages_apps_contacts" revision="ics" remote="github" />
   <project path="packages/apps/Mms" name="oxygen-rom-ics/android_packages_apps_mms" revision="ics" remote="github" />
   <project path="packages/apps/Phone" name="popdog123/android_packages_apps_phone" revision="ics" remote="github" />
   <project path="packages/apps/Settings" name="popdog123/android_packages_apps_settings" revision="ics" remote="github" />
